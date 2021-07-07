@@ -10,7 +10,7 @@
     <section id="profil">
         <h2>Presentation</h2>
         <p>
-            Hi, my name is Aboubacar DIAWARA, i'm 22, a third year computer science student (Bac+3).
+            Hi, my name is Aboubacar DIAWARA, i'm 22, a third year computer science student.
         </p>
         <img src="./assets/images/hello.svg"/>
     </section>
@@ -19,34 +19,20 @@
         <ul>
             <li>
                 <div>
-                    <h3>Bac+3 Université de Lille | Informatique </h3>
-                    <span> <span class="subtitle"> Start: </span class="subtitle-value"> 2021</span> <br/>
-                    <span> <span class="subtitle"> End: </span class="subtitle-value"> 2022</span> <br/>
-                    <span> <span class="subtitle"> Mention: </span class="subtitle-value"> (In progress)</span> <br/>
-                </div>
-            </li>
-            <li>
-                <div>
                     <h3>Bac+2 Université de Lille | Computer science </h3>
-                    <span> <span class="subtitle"> Start: </span class="subtitle-value"> 2020</span> <br/>
-                    <span> <span class="subtitle"> End: </span class="subtitle-value"> 2021</span> <br/>
-                    <span> <span class="subtitle"> Mention: </span class="subtitle-value"> Bien</span> <br/>
+                    <span> <span class="subtitle"> Start: </span class="subtitle-value"> 2020</span> <br>
+                    <span> <span class="subtitle"> End: </span class="subtitle-value"> 2020</span> <br>
+                    <span> <span class="subtitle"> Start: </span class="subtitle-value"> 2020</span> <br>
+                        Mention: Bien
+                    </span>
                 </div>
             </li>
             <li>
                 <div>
-                    <h3>Bac+1 Université de Lille | Sciences exactes sciences de l'ingenieur / Mathématiques & Informatique </h3>
-                    <span> <span class="subtitle"> Start: </span class="subtitle-value"> 2019</span> <br/>
-                    <span> <span class="subtitle"> End: </span class="subtitle-value"> 2020</span> <br/>
-                    <span> <span class="subtitle"> Mention: </span class="subtitle-value"> Très bien</span> <br/>
-                </div>
-            </li>
-            <li>
-                <div>
-                    <h3>Bac+1 UGANG | Télécommunications </h3>
-                    <span> <span class="subtitle"> Start: </span class="subtitle-value"> 2018</span> <br/>
-                    <span> <span class="subtitle"> End: </span class="subtitle-value"> 2019</span> <br/>
-                    <span> <span class="subtitle"> Mention: </span class="subtitle-value"> Très bien</span> <br/>
+                    <h3>Bac+1 UGAN | Télécommunications </h3>
+                    <span class="duree">
+                        Debut: 2018 - Fin: 2019
+                    </span>
                 </div>
             </li>
             <li>
@@ -63,7 +49,7 @@
         <h2>Skills</h2>
         <ul>
             <li>
-                <h3>Programming langages</h3>
+                <h3>Programming langages/</h3>
                 <div class="horizontal-align">
                     <!--
                         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -77,13 +63,6 @@
                 </div>
             </li>
             <li>
-                <h3>Database</h3>
-                <div class="horizontal-align">
-                    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-                    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-                </div>
-            </li>
-            <li>
                 <h3>OS</h3>
                 <div class="horizontal-align">
                     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
@@ -92,12 +71,10 @@
                 </div>
             </li>
             <li>
-                <h3>Other technologies</h3>
+                <h3>other technologies</h3>
                 <div class="horizontal-align">
-                    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
                     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-                    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt=""/>
-                    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+                    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
                 </div>
             </li>
         </ul>
@@ -105,18 +82,10 @@
     <section>
         <h2>Contact</h2>
         <div class="horizontal-align">
-            <a href="">
-                <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/>
-            </a>
-            <a href="">
-                <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-            </a>
-            <a href="">
-                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-            </a>
-            <a href="">
-                <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-            </a>
+            <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
         </div>
     </section>
     <section>
