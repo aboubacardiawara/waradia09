@@ -10,7 +10,7 @@
     <section id="profil">
         <h2>Presentation</h2>
         <p>
-            Hi, my name is Aboubacar DIAWARA, i'm 22, a third year computer science student (Bac+3).
+            Hi, my name is Aboubacar DIAWARA, a third year computer science student (Bac+3) at Université de Lille.
         </p>
         <img src="./assets/images/hello.svg"/>
     </section>
